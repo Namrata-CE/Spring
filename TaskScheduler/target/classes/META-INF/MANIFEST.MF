@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: 2020
+Build-Jdk: 11.0.8
+Implementation-Title: SchedulerApplication
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.task
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/SchedulerAppli
+ cation/
+Created-By: Maven Integration for Eclipse
+
